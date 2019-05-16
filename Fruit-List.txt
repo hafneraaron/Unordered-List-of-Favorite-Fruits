@@ -5,3 +5,5 @@ Pineapple
 Avacado
 Mango
 Pomegranate
+Kiwis
+Asian Pears
