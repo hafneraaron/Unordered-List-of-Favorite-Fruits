@@ -3,3 +3,5 @@ Clementine
 Banana
 Pineapple
 Avacado
+Mango
+Pomegranate
