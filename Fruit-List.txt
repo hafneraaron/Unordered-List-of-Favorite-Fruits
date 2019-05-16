@@ -7,3 +7,6 @@ Mango
 Pomegranate
 Kiwis
 Asian Pears
+Raspberry
+Strawberry
+Blackberry
